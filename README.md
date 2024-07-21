@@ -30,9 +30,9 @@ Below is a brief description of each of the listed variables in the attribute ta
 
 - `COUNTYFP20`: County FIPS code of 2020
 - `VTDST20`: Voting tabulation district FIPS code of 2020
-- `CD`: Congressional district ID in 2021 enacted congressional map
-- `SEND`: State Senate district for 2021 State Senate Adopted Plan
-- `HDIST`: State House district for 2021 State House of Representatives Districts Plan
+- `CD`: Congressional district ID in 2022 enacted congressional map
+- `SEND`: State Senate district for 2022 State Senate Adopted Plan
+- `HDIST`: State House district for 2022 State House of Representatives Districts Plan
 - `TOTPOP`: Total population in 2020 Census
 - `NH_WHITE`: White, non-hispanic, population in 2020 Census
 - `NH_BLACK`: Black, non-hispanic, population in 2020 Census
