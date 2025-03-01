@@ -14,11 +14,16 @@ The following obtained from [Redistricting Data Hub](https://redistrictingdatahu
 
 [State Senate District data](https://redistrictingdatahub.org/dataset/2022-kansas-senate-districts-approved-plan/): 2022 State Senate Districts Interim Plan from
 
-[2020 election data](https://redistrictingdatahub.org/dataset/vest-2020-kansas-precinct-boundaries-and-election-results-shapefile/): VEST 2020 precinct and election results
-
-[2018 election data](https://redistrictingdatahub.org/dataset/2018-ks-election-data-projected-to-2020-vtds/): VEST 2018 precinct and election results 
+[2018 election data](https://redistrictingdatahub.org/dataset/vest-2018-kansas-precinct-and-election-results/): VEST 2018 precinct and election results 
 
 [2016 election data](https://redistrictingdatahub.org/dataset/vest-2016-kansas-precinct-and-election-results/): VEST 2016 precinct and election results
+
+[2020 election data](https://redistrictingdatahub.org/dataset/vest-2020-kansas-precinct-boundaries-and-election-results-shapefile/): VEST 2020 precinct and election results
+
+And collected March 1, 2025:
+[2022 election data](https://redistrictingdatahub.org/dataset/kansas-2022-general-election-precinct-level-results-and-boundaries/): VEST and RDH precinct and election results
+
+[2020 County data](https://redistrictingdatahub.org/dataset/kansas-county-pl-94171-2020/): from 2020 Census Redistricting Data (P.L. 94-171) Shapefiles
 
 # **Processing**
 
