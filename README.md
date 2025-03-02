@@ -1,6 +1,11 @@
+# License
+This data was generated using data from the Redistricting Data Hub.  Any use of this project shall also comply with restrictions on use of data and attribution requirements set forth in the Redistricting Data Hub terms and conditions found at: [https://redistrictingdatahub.org/terms-and-conditions/](https://redistrictingdatahub.org/terms-and-conditions/).
+
+Use of this project is further governed by the terms of the [Creative Commons Attribution Noncommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en)
+
 # Kansas Election Shapefile
 
-This shapefile was processed by Professor Ellen Veomett and her student Arbie Hsu.
+This shapefile was processed by Professor Ellen Veomett and her student Arbie Hsu using the corresponding jupyter notebook.  As part of the cleaning process, precincts were nested within counties and small rook adjacencies (under 30 m) were changed to queen adjacencies.
 
 # **Sources**
 
@@ -27,7 +32,7 @@ And collected March 1, 2025:
 
 # **Processing**
 
-Demographic data were aggregated from the census block level and precincts were assigned to districts using [MGGG's proration software](https://github.com/mggg/maup). Election data were also prorated onto VTDs from the original precinct shapefile using the `maup` package.
+Data were cleaned and aggregated in the corresponding jupyter notebook using MGGG’s python library [maup](https://github.com/mggg/maup). 
 
 # **Metadata**
 
@@ -35,6 +40,7 @@ Below is a brief description of each of the listed variables in the attribute ta
 
 - `COUNTYFP20`: County FIPS code of 2020
 - `VTDST20`: Voting tabulation district FIPS code of 2020
+- `NAMELSAD20`: Tribal tract name and  translatedlegal/statistical area description
 - `CD`: Congressional district ID in 2022 enacted congressional map
 - `SEND`: State Senate district for 2022 State Senate Adopted Plan
 - `HDIST`: State House district for 2022 State House of Representatives Districts Plan
@@ -87,6 +93,3 @@ Below is a brief description of each of the listed variables in the attribute ta
 - `USS20R`: Number of votes for 2020 Republican senate candidate
 - `USS20O`: Number of votes for 2020 other party's senate candidate
 
-# **Projection**
-
-The shapefile uses a UTM NAD83 projection (EPSG: 4269).
