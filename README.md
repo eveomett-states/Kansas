@@ -26,6 +26,7 @@ The following obtained from [Redistricting Data Hub](https://redistrictingdatahu
 [2020 election data](https://redistrictingdatahub.org/dataset/vest-2020-kansas-precinct-boundaries-and-election-results-shapefile/): VEST 2020 precinct and election results
 
 And collected March 1, 2025:
+
 [2022 election data](https://redistrictingdatahub.org/dataset/kansas-2022-general-election-precinct-level-results-and-boundaries/): VEST and RDH precinct and election results
 
 [2020 County data](https://redistrictingdatahub.org/dataset/kansas-county-pl-94171-2020/): from 2020 Census Redistricting Data (P.L. 94-171) Shapefiles
@@ -71,25 +72,42 @@ Below is a brief description of each of the listed variables in the attribute ta
 - `2MOREVAP`: Two or more races, non-hispanic, voting age population in 2020 Census
 - `ATG18D`: Number of votes for 2018 Democratic attorney general candidate
 - `ATG18R`: Number of votes for 2018 Republican attorney general candidate
+- `ATG22D`: Number of votes for 2022 Democratic attorney general candidate
+- `ATG22R`: Number of votes for 2022 Republican attorney general candidate
 - `GOV18D`: Number of votes for 2018 Democratic gubernatorial candidate
 - `GOV18R`: Number of votes for 2018 Republican gubernatorial candidate
 - `GOV18O`: Number of votes for 2018 other party's gubernatorial candidate
-- `INS18D`: Number of votes for 2018 Democratic Commissioner of Insurance
-- `INS18R`: Number of votes for 2018 Republican Commissioner of Insurance
-- `PRE16O`: Number of votes for 2016 other party's President
-- `PRE16R`: Number of votes for 2016 Republican President
-- `PRE20D`: Number of votes for 2020 Democratic President
-- `PRE20R`: Number of votes for 2020 Republican President
-- `PRE20O`: Number of votes for 2020 other party's President
-- `SOS18D`: Number of votes for 2018 Democratic Secretary of State
-- `SOS18R`: Number of votes for 2018 Republican Secretary of State
-- `SOS18O`: Number of votes for 2018 other party's Secretary of State
-- `TRE18D`: Number of votes for 2018 Democratic Treasurer
-- `TRE18R`: Number of votes for 2018 other party's Treasurer
+- `GOV22D`: Number of votes for 2022 Democratic gubernatorial candidate
+- `GOV22R`: Number of votes for 2022 Republican gubernatorial candidate
+- `GOV22O`: Number of votes for 2022 other party's gubernatorial candidate
+- `INS18D`: Number of votes for 2018 Democratic Commissioner of Insurance candidate
+- `INS18R`: Number of votes for 2018 Republican Commissioner of Insurance candidate
+- `INS22D`: Number of votes for 2022 Democratic Commissioner of Insurance candidate
+- `INS22R`: Number of votes for 2022 Republican Commissioner of Insurance candidate
+- `PRE16D`: Number of votes for 2016 Democratic President candidate
+- `PRE16O`: Number of votes for 2016 other party's President candidate
+- `PRE16R`: Number of votes for 2016 Republican President candidate
+- `PRE20D`: Number of votes for 2020 Democratic President candidate
+- `PRE20R`: Number of votes for 2020 Republican President candidate
+- `PRE20O`: Number of votes for 2020 other party's President candidate
+- `SOS18D`: Number of votes for 2018 Democratic Secretary of State candidate
+- `SOS18R`: Number of votes for 2018 Republican Secretary of State candidate
+- `SOS18O`: Number of votes for 2018 other party's Secretary of State candidate
+- `SOS22D`: Number of votes for 2022 Democratic Secretary of State candidate
+- `SOS22R`: Number of votes for 2022 Republican Secretary of State candidate
+- `SOS22O`: Number of votes for 2022 other party's Secretary of State candidate
+- `TRE18D`: Number of votes for 2018 Democratic Treasurer candidate
+- `TRE18R`: Number of votes for 2018 Republican Treasurer candidate
+- `TRE22D`: Number of votes for 2022 Democratic Treasurer candidate
+- `TRE22R`: Number of votes for 2022 Republican Treasurer candidate
+- `TRE22O`: Number of votes for 2022 other party's Treasurer candidate
 - `USS16D`: Number of votes for 2016 Democratic senate candidate
 - `USS16R`: Number of votes for 2016 Republican senate candidate
 - `USS16O`: Number of votes for 2016 other party's senate candidate
 - `USS20D`: Number of votes for 2020 Democratic senate candidate
 - `USS20R`: Number of votes for 2020 Republican senate candidate
 - `USS20O`: Number of votes for 2020 other party's senate candidate
+- `USS22D`: Number of votes for 2022 Democratic senate candidate
+- `USS22R`: Number of votes for 2022 Republican senate candidate
+- `USS22O`: Number of votes for 2022 other party's senate candidate
 
